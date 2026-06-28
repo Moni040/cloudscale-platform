@@ -17,6 +17,7 @@ crash.log
 *.tfvars
 *.tfvars.json
 .terraform.lock.hcl
+*.terragrunt*
 
 # Python
 __pycache__/
